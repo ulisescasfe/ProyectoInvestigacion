@@ -1,0 +1,188 @@
+@@ -0,0 +1,186 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage[latin1]{inputenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}	
+\author{ulises castro feria}
+\title{proyecto investigacion}
+\begin{document}
+\begin{titlepage}
+	
+	\newcommand{\HRule}{\rule{\linewidth}{0.5mm}} % Defines a new command for the horizontal lines, change thickness here
+	
+	\center % Center everything on the page
+	
+	
+	%	HEADING SECTIONS
+
+	\textsc{\LARGE\textbf{\\TECNOL�GICO NACIONAL DE M�XICO}} \\[1.5cm]
+	\textsc{\Large\textbf{TECNOL�GICO NACIONAL DE TIJUANA} }\\[1.5cm]
+	\textsc{\Large SEMESTRE ENERO-JULIO 2016}\\[1cm]
+	\textsc{\Large ING. EN SISTEMAS COMPUTACIONALES}\\[1cm] % Major heading such as course name
+	\textsc{\large TALLER DE INVESTIGACI�N 1 ACA-0909-SC2A }\\[1cm] % Minor heading such as course title
+
+	%	TITLE SECTION
+
+	\HRule \\[0.5cm]
+	{\textbf{\textsc{\large EFECTOS DE LOS VIDEOJUEGOS SOBRE LOS USUARIOS A TEMPRANA EDAD }}}\\[0.5cm] % Title of your document
+	\HRule \\[1cm]
+
+	%	AUTHOR SECTION
+
+	\begin{minipage}{0.4\textwidth}
+		\begin{flushleft} \large
+			\emph{\textbf{Autor: }}\\
+			Ulises Castro Feria  % Your name
+			15211280
+		\end{flushleft}
+	\end{minipage}
+	~
+	\begin{minipage}{0.4\textwidth}
+		\begin{flushright} \large
+			\emph{\textbf{Profesor:}} \\
+			M.C. Jose Christrian Romero Hernandez % Supervisor's Name
+		\end{flushright}
+	\end{minipage}\\[2cm]
+	
+	% If you don't want a supervisor, uncomment the two lines below and remove the section above
+	%\Large \emph{Author:}\\
+	%John \textsc{Smith}\\[3cm] % Your name
+	
+	%----------------------------------------------------------------------------------------
+	%	DATE SECTION
+	%----------------------------------------------------------------------------------------
+	
+	{\large \today}\\[2cm] % Date, change the \today to a set date if you want to be precise
+	
+	%----------------------------------------------------------------------------------------
+	%	LOGO SECTION
+	%----------------------------------------------------------------------------------------
+	
+	%----------------------------------------------------------------------------------------
+	
+	\vfill % Fill the rest of the page with whitespace
+	
+\end{titlepage}
+\tableofcontents
+\pagebreak
+\section{Resumen}
+		Desde su aparici�n en los a�os 70, los posibles efectos psicosociales de los videojuegos, positivos o negativos, han sido objeto de una considerable pol�mica. La mayor�a de los argumentos en uno u otro sentido se han basado m�s en opiniones personales y prejuicios que en los datos de investigaci�n.\\
+		Los videojuegos forman una parte importante en la vida de las generaciones m�s j�venes y son buena parte de las actividades recreativas de los hogares. Diversos estudios revelan que los ni�os son capaces de desarrollar habilidades mentales que favorecen el razonamiento activo. Entre estos est�mulos que facilitan su aprendizaje hay varios tipos de videojuegos que han sido desarrollados para fines particulares. Sin embargo, en a�os recientes han surgido algunos videojuegos que fomentan altos niveles de viol...(line truncated)...
+	
+	\vfill
+	\section{Introduccion}
+	La aparici�n de los videojuegos como forma de entretenimiento de ni�os y adolescentes ha suscitado una gran pol�mica y preocupaci�n acerca de las posibles consecuencias negativas que pudieran tener sobre el desarrollo y la conducta de aquellos que los utilizan con regularidad.
+	?Los videojuegos son una de las tres principales causas de violencia familiar, junto con la televisi�n y los problemas econ�micos? (Charles Everett Koop, Cirujano General de los Estados Unidos, 10 de noviembre de 1982, en una conferencia en la Universidad de Pittsburg; citado en Meinel, 1983).[1]
+	Desde su nacimiento, los videojuegos han venido rodeados de la controversia propia de cualquier fen�meno sociocultural incipiente e impactante, apareciendo los primeros trabajos acerca de sus efectos sobre los jugadores al mismo tiempo que se pon�an de manifiesto las primeras cr�ticas.[2]
+	Los primeros estudios cient�ficos sobre las implicaciones psicosociales de los videojuegos comenzaron a publicarse a principios de la d�cada de los 80, y adem�s de aspectos presumiblemente psicopatol�gicos, abarcaban �reas como la personalidad, la salud o la coordinaci�n �culo-manual. Se trataba por lo general de estudios a peque�a escala, de car�cter parcial y sujetos a interpretaciones, pero la conclusi�n general extra�da de la conferencia organizada por la Universidad de Harvard en 1983 parec�a enfatiza...(line truncated)...
+	
+	\section{Justificacion}
+	El prop�sito de este trabajo ser� presentar informaci�n acerca de los efectos del uso de los videojuegos en aspectos de la vida social de ni�os y adolescentes, as� como posibles efectos psicol�gicos y fisiol�gicos generales. Se ha encontrado que la industria de los videojuegos es multimillonaria, y a pesar de que los videojuegos son populares en todo el mundo, la investigaci�n cient�fica sistem�tica es escasa y a veces, contradictoria. En algunos estudios se asocia el exceso de juego con efectos sociales y...(line truncated)...
+	\section{Objetivos generales}
+	El objetivo de realizar esta investigaci�n es conocer e informar sobre los efectos (positivos y negativos) que produce en los ni�os el uso de los videojuegos a temprana edad. Se analizar� la relaci�n entre los argumentos positivos como negativos para determinar el impacto que tienen sobre las actividades diarias de sus usuarios. 
+	Analizar las causas del porque los ni�os prefieren jugar videojuegos a otra actividad recreativa
+	
+	\subsection{Objetivos especificos}
+	\begin{itemize}
+		\item Mostrar la importancia de regular el uso de los videojuegos en ni�os menores
+		\item Analizar las consecuencias de jugar videojuegos en los usuarios
+		\item Analizar el impacto que tienen los videojuegos en el entorno familiar de los ni�os
+		\item Analizar el impacto de los videojuegos en el estudio
+		\item Analizar el impacto de los videojuegos en el entorno social de usuario
+		\item Analizar la clasificacion de los videojuegos
+		\item Analizar las causas que conllevan a la adquisici�n de videojuegos
+		
+	\end{itemize}
+	\vfill
+	\section{Desarrollo}
+	\subsection{El juego en los ni�os}
+	Estes y Mechikoff (1999), han definido el verbo jugar, como una serie de actividades de ocio que se realizan de forma voluntaria, para diversi�n, y que es creativo y no tiene l�mites o reglas. Por su parte, los juegos son actividades que tienen una serie de reglas, en los que hay ganadores y perdedores y que tienden a ser espec�ficos de acuerdo a la estructura del juego (e.g., coordinaci�n ojo-mano) (Pellegrini, 2010). Las investigaciones apoyan el papel fundamental que el juego posee en el desarrollo soci...(line truncated)...
+	\subsection{El videojuego}
+	Un videojuego es un programa inform�tico en el que el usuario o jugador mantiene una interacci�n a trav�s de im�genes que aparecen en un dispositivo que posee una pantalla que puede variar de tama�o. Como todo juego, posee reglas y un sistema de recompensa, de manera que existe un est�mulo impl�cito para intentar ganar. En un videojuego se puede competir contra la propia m�quina (i.e., software o programa de la m�quina) o contra otros adversarios. Un videojuego puede ser controlado �nicamente por los dedos...(line truncated)...
+	\subsection{Clasificaci�n de los videojuegos}
+	Existe un sistema de clasificaci�n de los juegos de acuerdo con su contenido y que de alguna forma nos permite conocer el p�blico al que supuestamente est�n dirigidos, as� como los posibles riesgos de su utilizaci�n (Entertainment Software Rating Board). Esta clasificaci�n se realiza por medio de letras de la siguiente manera:[4]
+	
+\begin{enumerate}
+	\item 	EC (early childhood): son videojuegos con contenidos tem�ticos para ni�os de 3 a�os. No contiene material que los padres puedan considerar inapropiado.
+	
+	\item   E (everyone): son videojuegos para ni�os de 6 a�os. Estos juegos presentan dibujos animados y fantas�as, violencia muy moderada y uso poco frecuente de lenguaje moderado.
+	
+	\item   E10+ (everyone 10+): son videojuegos con contenidos tem�ticos para ni�os de 10 a�os. Estos juegos presentan m�s dibujos animados, fantas�as y violencia moderada, uso frecuente de lenguaje moderado y temas m�nimamente sugestivos.
+	
+	\item T (teen): son videojuegos con contenidos tem�ticos para ni�os, preadolescentes y adolescentes de 13 a�os. Los videojuegos en esta categor�a pueden contener violencia, temas sugestivos, humor crudo, alguna sangre, simulaci�n de apuestas, y uso poco frecuente de lenguaje fuerte.
+	
+	\item M (mature): son videojuegos con contenidos tem�ticos adolescentes de 17 a�os. Los videojuegos en esta categor�a pueden presentar violencia intensa, im�genes sangrientas, contenido sexual, y lenguaje fuerte.
+	
+	\item AO (adults only): son videojuegos con contenidos tem�ticos s�lo para personas de 18 a�os. Los videojuegos en esta categor�a pueden presentar escenas prolongadas de violencia intensa y contenido sexual gr�fico expl�cito y desnudez
+	
+	\item RP (rating pending): significa que el videojuego no ha sido clasificado a�n.
+\end{enumerate}
+			
+
+	\subsection{Videojuegos pasivos y activos}
+	Los videojuegos pasivos involucran b�sicamente el uso de la coordinaci�n �culo manual para interactuar con el dispositivo electr�nico. Estos juegos generalmente se utilizan en una posici�n pasiva (e.g., la persona sentada en un sill�n) y con pocos movimientos del cuerpo. Son los juegos que m�s cr�ticas reciben porque promueven el sedentarismo y el consumo de alimentos de poco valor nutritivo. 
+	Por su parte, los videojuegos activos son juegos electr�nicos que les permiten a los jugadores interactuar f�sicamente utilizando sus manos, brazos, piernas o el cuerpo completo, con im�genes que aparecen en una pantalla o dispositivo de salida. El �xito en el juego depende, entre otros factores, del movimiento que se realice frente a una c�mara, un sensor infrarrojo, un l�ser, una alfombra sensible a la presi�n o un erg�metro modificado (Foley y Maddison, 2010).[5]
+	
+	\subsection{Efectos sociales}
+	Se han descrito algunos de los efectos sociales negativos del uso de videojuegos, como por ejemplo, una relaci�n afectiva d�bil con los padres y personas de su misma edad, o incluso el reforzamiento de estereotipos sociales de tipo racial o sexual (Dickerman, Christensen, y Kerl-McClain, 2008). 
+	En ni�os de edad preescolar (i.e., jard�n de infantes o kindergarten), se ha observado que cuando utilizan videojuegos no les permite desarrollar importantes destrezas sociales debido a que la naturaleza de los videojuegos no les estimula a tener interacciones significativas con otros ni�os y porque los juegos los distraen, por lo que el efecto en la socializaci�n es perjudicial (Bacigalupa, 2005).
+	En adolescentes, se ha encontrado que aquellos entre 14 y 19 a�os de edad que pasan m�s tiempo frente a una pantalla (e.g., ordenador, T.V., videojuegos), son menos sociables y unidos a sus padres y personas de edades similares (Cummings, y Vandewater, 2007; Richards, McGee, Williams, Welch, y Hancox, 2010).[6]
+	\subsection{Efectos negativos}
+	\subsubsection{Adicci�n}
+	Una de las cr�ticas m�s habituales a los videojuegos es la que hace referencia a su supuesto potencial adictivo. A partir de la observaci�n de j�venes que les dedican una parte importante de su tiempo y que centran sus relaciones sociales en torno a ellos, no falta quien habla de ?enganche? y ?adicci�n?, en claro paralelismo a la dependencia de sustancias. Los propios aficionados e incluso la publicidad no dudan en recurrir a tales t�rminos, conscientes del atractivo que generan.
+	Por otra parte, se ha demostrado ?y es una experiencia com�n? que cuando los usuarios reciben un nuevo videojuego, pasan mucho tiempo al principio jugando con �l, y poco a poco ese tiempo va disminuyendo, lo que ha sido considerado como una prueba de la ausencia de la tolerancia caracter�stica de muchas dependencias.[7]
+	\subsubsection{Agresividad}
+	Otra de las principales cr�ticas en contra de los videojuegos sostiene su elevado potencial como inductores de conductas violentas y agresivas entre los usuarios
+	En ocasiones, adem�s, el an�lisis superficial de algunos juegos ha dado lugar a duras cr�ticas por la violencia y la agresi�n que muestran, en tanto que an�lisis m�s exhaustivos revelan que la acci�n que en ellos se muestra implica diferentes ?esferas? de comunicaci�n, con discursos tanto competitivos como cooperativos.  
+	No obstante, todo lo dicho, es preciso reconocer que, aun no siendo un hecho generalizado, numerosos juegos s� que exhiben niveles de violencia y agresividad que inducen a preocupaci�n. En algunos casos, adem�s, el contenido violento de los juegos no se limita a agresiones f�sicas m�s o menos espectaculares, sino que entra en el terreno ideol�gico.[7]
+	\subsubsection{Aislamiento social}
+	Hay quien ha criticado el supuesto potencial de los videojuegos para convertir al jugador en un ser aislado. Se argumenta que la actividad de juego es eminentemente solitaria, que el individuo se aleja de sus amistades y reduce las interacciones, haci�ndose menos sociable y poniendo en riesgo sus habilidades sociales.
+	Adem�s, en lo que respecta a la conducta de uso de videojuegos y sus implicaciones sobre las relaciones sociales del ni�o en el �mbito familiar parecen influir factores como las actitudes generales hacia los medios, los h�bitos culturales acerca del grado de privacidad que se le permite a un ni�o en su domicilio, las distribuciones espaciales dependientes del espacio disponible en la casa.[7]
+	\subsubsection{Rendimiento escolar}
+	Otra de las principales cr�ticas que se han realizado a los videojuegos consiste en sus presuntos efectos negativos sobre el rendimiento escolar del jugador, debidos al absentismo y a un posible desplazamiento del tiempo de estudio y de la realizaci�n de tareas escolares en el propio domicilio
+	Sin embargo, no se posee ning�n dato que permita hablar de causalidad y, en ese caso, de direccionalidad de la misma. Es decir, a la luz de los resultados resulta tan v�lido deducir que los videojuegos causan peores calificaciones debido a sus efectos sobre la asistencia a clase y la realizaci�n de tareas, como argumentar que los alumnos con peores calificaciones y con peor seguimiento de las tareas educativas ?por el motivo que sea? tienden a jugar m�s a los videojuegos que aquellos con mejor rendimiento ...(line truncated)...
+	\subsection{Efectos positivos}
+	\subsubsection{Entrenamiento y mejora de habilidades}
+	En los �ltimos a�os, numerosas investigaciones han planteado la relaci�n entre el uso de videojuegos y un mejor desempe�o en diversas tareas cognitivas. 
+	Por un lado, mediante procedimientos correlacionales se ha comparado la ejecuci�n de jugadores habituales o frecuentes, y de no jugadores. Con este procedimiento, se ha informado de que el uso habitual de videojuegos se asocia a una mejor ejecuci�n en pruebas de atenci�n visual, m�s eficiencia en el cambio de tareas, menor tiempo de reacci�n en tareas de b�squeda visual, menor tiempo de reacci�n en discriminaci�n de forma/color, y m�s eficacia en el seguimiento de objetivos m�ltiples[7]
+	\subsubsection{Utilidades terap�uticas}
+	Una l�nea de creciente importancia es la que plantea la utilidad de los videojuegos como tratamiento o como apoyo al tratamiento de diversos problemas m�dicos y/o psicol�gicos. En este sentido, se ha demostrado la utilidad terap�utica de los videojuegos en numerosos campos, incluyendo la fisioterapia con lesiones en los brazos; incremento de las interacciones sociales entre ni�os autistas y no autistas; incremento del auto-concepto, el auto-control y la auto-estima; ense�anza de habilidades de ocio a sujet...(line truncated)...
+	\subsubsection{Uso como medio did�ctico}
+	Los videojuegos poseen un notable potencial educativo, ya que permiten combinar el tradicional objetivo l�dico de este medio con una funci�n pedag�gica. El contexto l�dico y el contacto con el hardware inform�tico fomentan y mantienen el inter�s y la motivaci�n del ni�o, lo que a su vez puede facilitar la puesta en pr�ctica de estrategias de aprendizaje m�s activas dirigidas a la consecuci�n de la meta.
+	En resumen, muchas de las caracter�sticas de los videojuegos parecen ser especialmente �tiles para promover el aprendizaje de contenidos, procedimientos y actitudes, superando algunas de las limitaciones del aprendizaje basado en m�todos tradicionales. �sta es una potencialidad que admiten incluso los mayores cr�ticos de los videojuegos pero que, parad�jicamente, no ha sido suficientemente avalada por datos de investigaci�n.[8]
+	\section{Sugerencias}
+	A la hora de jugar es importante que el padre juegue con el hijo, de hecho lo ideal es que el padre lo juegue primero que el ni�o y se familiarice y considere si es apropiado.\\
+	
+	El padre debe establecer un puente de comunicaci�n con sus hijos donde lo deben ver como autoridad, respetarlo y obedecerlo, pero tambi�n verlo como un amigo con el que pueden externan sus inquietudes y tocar temas que pueden ser de importancia como un videojuego, porque �ste puede normar la conducta.\\
+	
+	Es bueno tambi�n que el padre establezca reglas claras sobre el tiempo que se va a dedicar a jugar, ya sea dentro o fuera del hogar, para que los ni�os se sujeten a esos horarios, aprendan a tener una disciplina en el manejo de los videojuegos. Esta disciplina sirve para hacer entender al ni�o que primero est�n sus responsabilidades en la casa, en los trabajos escolares, para que el ni�o entienda que primero es el trabajo y luego la diversi�n y sea responsable.[9]\\
+	
+	Otra sugerencia es estimular al ni�o a que participe en otras actividades, como la convivencia familiar, ir a un parque, jugar, practicar alg�n deporte, salir a comprar un helado, a dar un paseo, esto es importante para que el ni�o no se ensimisme u obsesione por el videojuego.[10]
+	
+	\section{Conclusion}
+	
+	Los videojuegos han adquirido un papel importante en el entretenimiento de millones de ni�os.
+	Obtener beneficios de los videojuegos requiere un poco de preocupaci�n y conocimiento del contenido de �stos, pues se debe ense�ar a los ni�os a ver los videojuegos con un sentido cr�tico para permitirles distinguir entre la realidad y la ficci�n
+	es necesario estar informado de los mensajes y contenido de los videojuegos, como tambi�n de aquella informaci�n que pueda ser accesible a los ni�os: sea por la televisi�n, el radio o la internet, teniendo siempre presente que estas v�as de comunicaci�n pueden ser de utilidad para los ni�os, a su vez puede proporcionarles alguna noticia que por su edad a�n no puedan asimilar; es decir, el internet y los videojuegos pueden distorsionar las respuestas conductuales de los ni�os, o bien, servir en su aprendiza...(line truncated)...
+	
+	\newpage
+	\bibliographystyle{plain}
+	\bibliography{Referencias}
+\textbf{	1. Efectos psicosociales de los videojuegos.} Ricardo Tejeiro Salguero, Manuel Pelegrina del R�o, Jorge Luis G�mez Vallecillo.\\
+\textbf{	2. Los adolescentes y los videojuegos.} Rodrigo LE�N JARIEGO  Centro Municipal de Servicios Sociales ?La Orden?.  \\
+\textbf{	3. El efecto de los videojuegos en variables sociales, psicol�gicas y fisiol�gicas en ni�os y adolescentes.} Retos. Nuevas tendencias en Educaci�n F�sica, Deporte y Recreaci�n 2012, Jos� Moncada Jim�nez y Yamileth Chac�n Araya, n� 21, pp. 43-49.\\
+\textbf{	4. Los videojuegos: ventajas y perjuicios para los ni�os.} Katy Lizeth Reyes-Hern�ndez, Nora Patricia S�nchez-Ch�vez, Mar�a Imelda Toledo-Ram�rez, Ulises Reyes-G�mez, Diana Piedad Reyes-Hern�ndez, Ulises Reyes-Hern�ndez.  Vol. 81, N�m. 2 ? Marzo-Abril 2014 pp 74-78.\\
+\textbf{	5. Los adolescentes y los videojuegos.} Rodrigo LE�N JARIEGO.\\ Estallo, J. A. (1995). Los videojuegos: juicios y prejuicios. Barcelona: Planeta. Estallo.\\
+\textbf{	6. Los adolescentes y los videojuegos.} Rodrigo LE�N JARIEGO.\\ Estallo, J.A., Masferrer, M.C. y Aguirre, C. (2001). \textbf{Efectos a largo plazo del uso de los videojuegos.Apuntes de Psicolog�a}, 19 (1), 161-174.\\
+ \textbf{7. Efectos psicosociales de los videojuegos.} Ricardo Tejeiro Salguero, Manuel Pelegrina del R�o, Jorge Luis G�mez Vallecillo.\\ 
+\textbf{	Videojuegos y sus efectos} Jocelyn Lillo Tapia, Francisca Morales y Jennifer Romero\\
+\textbf{	Recuperado de:} http://www.elbebe.com/ninos/videojuegos-desarrollo-ninos.\\	
+\textbf{	8. Recuperado de:} http://www.batanga.com/curiosidades/6820/los-efectos-de-los-videojuegos-en-el-cerebro-segun-los-cientificos.\\
+\textbf{	9. Los ni�os y los videojuegos I ?Jugando con la violencia?}. Ing. Gilberto S�nchez. Esperanza para la Familia, A. C.                              N�m. en Cat�logo: 0232.\\
+\textbf{	10. Recuperado de:} http://www.fundacioncadah.org/web/articulo/como-evitar-y-prevenir-el-uso-excesivo-o-adiccion-de-las-tic-en-ninos-con-tdah.html.
+	
+
+\end{document}
+\ No newline at end of file
